@@ -1,0 +1,318 @@
+.back-button-icon1 {
+  cursor: pointer;
+  width: 6.11%;
+  max-width: 100%;
+  height: 2.75%;
+  max-height: 100%;
+  position: absolute;
+  inset: 12.25% 88.33% 85% 5.56%;
+  overflow: hidden;
+}
+
+.order-details1 {
+  font-size: var(--font-size-3xl);
+  width: 183px;
+  display: inline-block;
+  position: absolute;
+  top: 92px;
+  left: 103px;
+}
+
+.cardlight-child {
+  border-radius: var(--br-base);
+  background-color: var(--white-500);
+  box-shadow: var(--card-shadow);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.im-going-to {
+  font-size: var(--font-size-mini);
+  width: 98.99%;
+  display: inline-block;
+  position: absolute;
+  top: 23.75%;
+  left: 0;
+}
+
+.group-child1 {
+  width: 7.77%;
+  max-width: 100%;
+  height: 20%;
+  max-height: 100%;
+  position: absolute;
+  inset: 0 0 80% 92.23%;
+  overflow: hidden;
+}
+
+.sunday-31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.sunday-31-900-pm-wrapper {
+  color: var(--color-gray-100);
+  width: 62.77%;
+  height: 16.25%;
+  position: absolute;
+  inset: 3.75% 37.23% 80% 0;
+}
+
+.min {
+  position: absolute;
+  top: 0;
+  left: 12.27%;
+}
+
+.group-child2, .min-parent {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.group-child2 {
+  width: 8.59%;
+  max-width: 100%;
+  height: 93.33%;
+  max-height: 100%;
+  top: 6.67%;
+  right: 91.41%;
+  overflow: hidden;
+}
+
+.min-parent {
+  color: var(--color-typography-sub-color);
+  width: 78.71%;
+  height: 18.75%;
+  top: 81.25%;
+  right: 21.29%;
+}
+
+.im-going-to-shake-y-parent {
+  width: 63.33%;
+  height: 75.47%;
+  position: absolute;
+  inset: 8.49% -.03% 16.04% 36.7%;
+}
+
+.tempimagecdedtt-2-icon {
+  border-radius: var(--br-3xs);
+  object-fit: cover;
+  width: 27.83%;
+  max-width: 100%;
+  height: 79.25%;
+  max-height: 100%;
+  position: absolute;
+  inset: 10.38% 67.89% 10.38% 4.28%;
+  overflow: hidden;
+}
+
+.cardlight, .cardlight-wrapper {
+  width: 327px;
+  height: 106px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.cardlight-wrapper {
+  font-size: var(--font-size-smi);
+  color: var(--color-typography-title);
+  top: 148px;
+  left: 12px;
+}
+
+.div5, .order-summary, .payment-method, .total {
+  width: 183px;
+  display: inline-block;
+  position: absolute;
+  top: 280px;
+  left: 20px;
+}
+
+.div5, .payment-method, .total {
+  width: 148px;
+  top: 501px;
+}
+
+.div5, .total {
+  font-size: var(--font-size-base);
+  text-align: left;
+  width: 52px;
+  top: 120px;
+  left: 0;
+}
+
+.div5 {
+  width: 69px;
+  left: 250px;
+}
+
+.div6, .x-ticket-price {
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.div6 {
+  color: var(--color-gray-100);
+  left: 241px;
+}
+
+.subtotal-parent, .x-ticket-price-parent {
+  width: 291px;
+  height: 20px;
+  position: absolute;
+  top: 0;
+  left: 10px;
+}
+
+.subtotal-parent {
+  top: 33px;
+}
+
+.div8 {
+  color: var(--color-gray-100);
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  left: 246px;
+}
+
+.fees-parent, .total-parent {
+  width: 289px;
+  height: 20px;
+  position: absolute;
+  top: 60px;
+  left: 9px;
+}
+
+.total-parent {
+  text-align: center;
+  font-size: var(--font-size-sm);
+  width: 319px;
+  height: 136px;
+  top: 332px;
+  left: 17px;
+}
+
+.price {
+  width: 52px;
+  display: inline-block;
+  position: absolute;
+  top: 689px;
+  left: 22px;
+}
+
+.credit-debit-card, .paypal {
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  left: 63px;
+}
+
+.paypal {
+  top: 36px;
+  left: 60px;
+}
+
+.group-child3, .symbol-icon {
+  width: 16.95%;
+  max-width: 100%;
+  height: 35.4%;
+  max-height: 100%;
+  position: absolute;
+  inset: 0 83.05% 64.6% 0;
+  overflow: hidden;
+}
+
+.symbol-icon {
+  width: 9.38%;
+  height: 34.51%;
+  inset: 65.49% 87.8% 0 2.82%;
+}
+
+.credit-debit-card-parent {
+  text-align: center;
+  font-size: var(--font-size-sm);
+  width: 177px;
+  height: 56.5px;
+  position: absolute;
+  top: 563px;
+  left: 31px;
+}
+
+.select-icon {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 599px;
+  left: 298px;
+}
+
+.div9 {
+  width: 68px;
+  display: inline-block;
+  position: absolute;
+  top: 716px;
+  left: 21px;
+}
+
+.place-order-button-child {
+  width: 0%;
+  max-width: 100%;
+  height: 0%;
+  max-height: 100%;
+  position: absolute;
+  inset: -58.14% -17.22% -104.65% -19.44%;
+  overflow: hidden;
+}
+
+.place-order {
+  width: 63.33%;
+  height: 44.19%;
+  display: inline-block;
+  position: absolute;
+  top: 27.91%;
+  left: 18.33%;
+}
+
+.place-order-button {
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-whitesmoke-100);
+  background-color: #888;
+  width: 180px;
+  height: 43px;
+  position: absolute;
+  top: 697px;
+  left: 149px;
+}
+
+.oe-project-letters-10 {
+  object-fit: cover;
+  width: 40px;
+  height: 31px;
+  position: absolute;
+  top: 16px;
+  left: 160px;
+}
+
+.order-details {
+  background-color: var(--white-500);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--dark-500);
+  font-family: var(--font-questrial);
+  width: 100%;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=order-details.31054b62.css.map */

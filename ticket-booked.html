@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./ticket-booked.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Questrial:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="ticket-booked">
+      <div class="home-button" id="homeButtonContainer">
+        <div class="go-to-home">Go to Home</div>
+      </div>
+      <div class="e-ticket-button" id="eTicketButtonContainer">
+        <div class="rectangle-parent">
+          <img class="rectangle-icon" alt="" src="./public/rectangle.svg" />
+
+          <div class="view-e-ticket">View E-Ticket</div>
+        </div>
+      </div>
+      <div class="order-notification-parent">
+        <div class="order-notification">
+          You Have Successfully booked your spot!
+        </div>
+        <div class="congratulations">Congratulations !</div>
+        <img
+          class="oe-project-letters-11"
+          alt=""
+          src="./public/oe-project-letters-11@2x.png"
+        />
+      </div>
+    </div>
+
+    <script>
+      var homeButtonContainer = document.getElementById("homeButtonContainer");
+      if (homeButtonContainer) {
+        homeButtonContainer.addEventListener("click", function (e) {
+          window.location.href = "./home-page.html";
+        });
+      }
+      
+      var eTicketButtonContainer = document.getElementById("eTicketButtonContainer");
+      if (eTicketButtonContainer) {
+        eTicketButtonContainer.addEventListener("click", function (e) {
+          window.location.href = "./view-ticket.html";
+        });
+      }
+      </script>
+  </body>
+</html>

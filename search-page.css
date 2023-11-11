@@ -1,0 +1,202 @@
+.back-button-icon3 {
+  position: absolute;
+  height: 2.75%;
+  width: 6.11%;
+  top: 7.5%;
+  right: 88.33%;
+  bottom: 89.75%;
+  left: 5.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.span {
+  font-family: var(--font-poppins);
+}
+.text5 {
+  flex: 1;
+  position: relative;
+}
+.icon-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.search-bar2 {
+  position: absolute;
+  top: 107px;
+  left: 15px;
+  border-radius: var(--br-3xs);
+  background-color: #f3f3f3;
+  box-shadow: var(--ds-2);
+  width: 335px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-smi) var(--padding-xl);
+  box-sizing: border-box;
+  color: var(--color-gray-300);
+}
+.location1 {
+  position: relative;
+  display: inline-block;
+  width: 265px;
+}
+.map-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.my-current-location {
+  position: relative;
+  display: inline-block;
+  width: 236px;
+  flex-shrink: 0;
+}
+.location-parent,
+.map-group {
+  display: flex;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.map-group {
+  flex-direction: row;
+  align-items: center;
+  font-size: var(--font-size-sm);
+  color: var(--gray-500);
+}
+.location-parent {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame-parent2,
+.remind-me-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.remind-me-button {
+  border-radius: var(--br-3xs);
+  background-color: var(--gray-gray-5);
+  width: 50px;
+  height: 50px;
+  justify-content: center;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+}
+.frame-parent2 {
+  position: absolute;
+  top: 172px;
+  left: 25px;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-base);
+}
+.david-guetta-2 {
+  align-self: stretch;
+  position: relative;
+}
+.vuesaxlinearheart-icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.frame-wrapper,
+.vuesaxlinearlocation-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vuesaxlinearlocation-parent2 {
+  flex: 1;
+  gap: var(--gap-8xs);
+}
+.frame-wrapper {
+  align-self: stretch;
+  font-size: var(--font-size-xs);
+  color: var(--gray-500);
+}
+.david-guetta-new-years-eve-container,
+.paris-new-year-party-rooftop-parent,
+.travis-scott-birds-eye-tour-group {
+  position: absolute;
+  top: 256px;
+  left: 129px;
+  width: 187px;
+  height: 84px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.paris-new-year-party-rooftop-parent,
+.travis-scott-birds-eye-tour-group {
+  top: 415px;
+}
+.paris-new-year-party-rooftop-parent {
+  top: 574px;
+  cursor: pointer;
+}
+.image-78-icon1,
+.image-79-icon {
+  position: absolute;
+  top: calc(50% - 144px);
+  left: 11px;
+  border-radius: var(--br-2xl);
+  width: 100px;
+  height: 121px;
+  object-fit: cover;
+}
+.image-79-icon {
+  top: calc(50% + 15px);
+}
+.oe-project-letters-7 {
+  position: absolute;
+  top: 16px;
+  left: 160px;
+  width: 40px;
+  height: 31px;
+  object-fit: cover;
+}
+.search-page-child,
+.search-page-item {
+  position: absolute;
+  top: 387.8px;
+  left: 15.8px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 7px rgba(0, 0, 0, 0.25);
+  border-top: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 325.5px;
+  height: 0.5px;
+}
+.search-page-item {
+  top: 544.8px;
+  left: 16.8px;
+}
+.tempimagecdedtt-3-icon {
+  position: absolute;
+  top: 559px;
+  left: 15px;
+  border-radius: var(--br-2xl);
+  width: 92px;
+  height: 113px;
+  object-fit: cover;
+}
+.search-page {
+  position: relative;
+  background-color: var(--white-500);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--dark-500);
+  font-family: var(--font-questrial);
+}

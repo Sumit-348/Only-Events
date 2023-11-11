@@ -1,0 +1,19 @@
+.oe-project-002-1 {
+  object-fit: cover;
+  cursor: pointer;
+  width: 211px;
+  height: 221px;
+  position: absolute;
+  top: 290px;
+  left: 83px;
+}
+
+.splash-screen-1-logo-view {
+  background-color: var(--white-500);
+  width: 100%;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */

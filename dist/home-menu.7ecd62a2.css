@@ -1,0 +1,150 @@
+.home-menu-child {
+  background-color: var(--color-black);
+  width: 196px;
+  height: 803px;
+  position: absolute;
+  top: -3px;
+  left: -3px;
+}
+
+.settings {
+  line-height: 25px;
+  position: absolute;
+  top: 0;
+  left: 37px;
+}
+
+.group-child9 {
+  width: 23.96%;
+  max-width: 100%;
+  height: 92%;
+  max-height: 100%;
+  position: absolute;
+  inset: 4% 76.04% 4% 0;
+  overflow: hidden;
+}
+
+.settings-parent {
+  width: 96px;
+  height: 25px;
+  position: absolute;
+  top: 290px;
+  left: 0;
+}
+
+.span1 {
+  color: var(--color-black);
+}
+
+.group-child10 {
+  width: 19.66%;
+  max-width: 100%;
+  height: 92%;
+  max-height: 100%;
+  position: absolute;
+  inset: 4% 80.34% 4% 0;
+  overflow: hidden;
+}
+
+.contact-us-parent {
+  width: 117px;
+  height: 25px;
+  position: absolute;
+  top: 232px;
+  left: 0;
+}
+
+.group-child11, .helps-faqs-parent {
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.helps-faqs-parent {
+  width: 133px;
+  height: 25px;
+  top: 348px;
+}
+
+.group-child12, .my-profile-parent {
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  top: 1px;
+  left: 0;
+}
+
+.my-profile-parent {
+  width: 106px;
+  height: 25px;
+  top: 0;
+}
+
+.bookmark-parent, .calender-parent, .sign-out-parent {
+  width: 103px;
+  height: 25px;
+  position: absolute;
+  top: 116px;
+  left: 0;
+}
+
+.bookmark-parent, .sign-out-parent {
+  cursor: pointer;
+  width: 111px;
+  top: 174px;
+}
+
+.sign-out-parent {
+  width: 99px;
+  top: 406px;
+}
+
+.group-div, .home-menu-item {
+  width: 133px;
+  height: 431px;
+  position: absolute;
+  top: 232px;
+  left: 23px;
+}
+
+.home-menu-item {
+  object-fit: cover;
+  cursor: pointer;
+  border-radius: 30px;
+  width: 65px;
+  height: 65px;
+  top: 70px;
+  left: 24px;
+}
+
+.adrien-seppanen1 {
+  text-transform: capitalize;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.adrien-seppanen-wrapper {
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  width: 39.17%;
+  height: 2.38%;
+  position: absolute;
+  inset: 18.63% 54.44% 79% 6.39%;
+}
+
+.home-menu {
+  background-color: var(--white-500);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--white-500);
+  font-family: var(--font-questrial);
+  width: 100%;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=home-menu.7ecd62a2.css.map */

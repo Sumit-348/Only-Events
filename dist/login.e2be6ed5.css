@@ -1,0 +1,219 @@
+.button-child2 {
+  background-color: #888;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: 0%;
+  overflow: hidden;
+}
+
+.login2 {
+  width: 54.96%;
+  display: inline-block;
+  position: relative;
+  top: 28.89%;
+  left: 0%;
+}
+
+.button4 {
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  color: var(--color-whitesmoke-100);
+  background: #888;
+  border-color: #888;
+  width: 246px;
+  height: 45px;
+  position: absolute;
+  top: 509px;
+  left: 57px;
+}
+
+.frame-child1 {
+  background-color: var(--gray-gray-20);
+  flex: 1;
+  height: 1px;
+}
+
+.frame-child1, .or1 {
+  position: relative;
+}
+
+.rectangle-parent7 {
+  justify-content: center;
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-3xs);
+  flex-direction: row;
+  display: flex;
+}
+
+.facebook-icon1 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+
+.button-facebook1 {
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--gray-gray-20);
+  box-sizing: border-box;
+  padding: var(--padding-xl);
+  justify-content: center;
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-3xs);
+  flex-direction: row;
+  height: 56px;
+  display: flex;
+}
+
+.button-facebook-group, .frame-parent4 {
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  flex-direction: column;
+  display: flex;
+}
+
+.button-facebook-group {
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--dark-500);
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.frame-parent4 {
+  font-size: var(--font-size-2xs);
+  color: var(--gray-500);
+  align-items: center;
+  width: 335px;
+  position: absolute;
+  top: 565px;
+  left: 13px;
+}
+
+.use-credentials-to, .welcome-back {
+  align-self: stretch;
+  position: relative;
+}
+
+.use-credentials-to {
+  font-size: var(--font-size-sm);
+  color: var(--gray-500);
+}
+
+.welcome-back-parent {
+  justify-content: flex-start;
+  align-items: center;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-5xl);
+  flex-direction: column;
+  width: 335px;
+  display: flex;
+  position: absolute;
+  top: 221px;
+  left: 13px;
+}
+
+.signup {
+  color: var(--color-gray-100);
+}
+
+.dont-have-an-container {
+  cursor: pointer;
+  line-height: 20px;
+  position: absolute;
+  top: 731px;
+  left: 83px;
+}
+
+.icon7, .text6 {
+  position: relative;
+}
+
+.text6 {
+  flex: 1;
+  line-height: 20px;
+}
+
+.icon7 {
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+
+.icon-parent2 {
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-3xs);
+  flex-direction: row;
+  display: flex;
+}
+
+.enter-username, .enter-username-parent, .login-inner {
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+}
+
+.enter-username {
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gray-200);
+  padding: var(--padding-base) var(--padding-xl);
+  justify-content: center;
+  align-self: stretch;
+}
+
+.enter-username-parent, .login-inner {
+  justify-content: flex-start;
+}
+
+.enter-username-parent {
+  align-self: stretch;
+  gap: var(--gap-xl);
+}
+
+.login-inner {
+  text-align: left;
+  color: var(--color-gray-300);
+  width: 335px;
+  position: absolute;
+  top: 303px;
+  left: 12px;
+}
+
+.forgot-password1 {
+  text-align: right;
+  cursor: pointer;
+  width: 335px;
+  display: inline-block;
+  position: absolute;
+  top: 458px;
+  left: 0;
+}
+
+.oe-project-letters-1 {
+  object-fit: cover;
+  width: 152px;
+  height: 145px;
+  position: absolute;
+  top: 51px;
+  left: 104px;
+}
+
+.login1 {
+  background-color: var(--white-500);
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--dark-500);
+  font-family: var(--font-questrial);
+  width: 100%;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=login.e2be6ed5.css.map */

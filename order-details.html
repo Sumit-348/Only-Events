@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./order-details.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Questrial:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="order-details">
+      <img
+        class="back-button-icon1"
+        alt=""
+        src="./public/back-button.svg"
+        id="backButtonIcon"
+      />
+
+      <div class="order-details1">Order Details</div>
+      <div class="cardlight-wrapper">
+        <div class="cardlight">
+          <div class="cardlight-child"></div>
+          <div class="im-going-to-shake-y-parent">
+            <div class="im-going-to">Paris New year Party - Rooftop Party</div>
+            <img class="group-child1" alt="" src="./public/iconbookmark.svg" />
+
+            <div class="sunday-31-900-pm-wrapper">
+              <div class="sunday-31">Sunday 31 • 9:00 PM</div>
+            </div>
+            <div class="min-parent">
+              <div class="min">1 Quai de grenelle , Paris</div>
+              <img class="group-child2" alt="" src="./public/group-6.svg" />
+            </div>
+          </div>
+          <img
+            class="tempimagecdedtt-2-icon"
+            alt=""
+            src="./public/tempimagecdedtt-2@2x.png"
+          />
+        </div>
+      </div>
+      <div class="order-summary">Order Summary</div>
+      <div class="payment-method">Payment Method</div>
+      <div class="total-parent">
+        <div class="total">Total</div>
+        <div class="div5">$150.00</div>
+        <div class="x-ticket-price-parent">
+          <div class="x-ticket-price">1x Ticket Price</div>
+          <div class="div6">$100.00</div>
+        </div>
+        <div class="subtotal-parent">
+          <div class="x-ticket-price">Subtotal</div>
+          <div class="div6">$100.00</div>
+        </div>
+        <div class="fees-parent">
+          <div class="x-ticket-price">Fees</div>
+          <div class="div8">$50.00</div>
+        </div>
+      </div>
+      <div class="price">Price</div>
+      <div class="credit-debit-card-parent">
+        <div class="credit-debit-card">Credit /Debit Card</div>
+        <div class="paypal">Paypal</div>
+        <img class="group-child3" alt="" src="./public/symbol.svg" />
+
+        <img class="symbol-icon" alt="" src="./public/symbol1.svg" />
+      </div>
+      <img class="select-icon" alt="" src="./public/select.svg" />
+
+      <div class="div9">$150.00</div>
+      <div class="place-order-button" id="placeOrderButton">
+        <img
+          class="place-order-button-child"
+          alt=""
+          src="./public/rectangle.svg"
+        />
+
+        <div class="place-order">Place order</div>
+      </div>
+      <img
+        class="oe-project-letters-10"
+        alt=""
+        src="./public/oe-project-letters-10@2x.png"
+      />
+    </div>
+
+    <script>
+      var backButtonIcon = document.getElementById("backButtonIcon");
+      if (backButtonIcon) {
+        backButtonIcon.addEventListener("click", function (e) {
+          window.location.href = "./event-details-page.html";
+        });
+      }
+      
+      var placeOrderButton = document.getElementById("placeOrderButton");
+      if (placeOrderButton) {
+        placeOrderButton.addEventListener("click", function (e) {
+          window.location.href = "./ticket-booked.html";
+        });
+      }
+      </script>
+  </body>
+</html>

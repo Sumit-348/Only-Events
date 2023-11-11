@@ -1,0 +1,147 @@
+.template-classic-2-icon {
+  object-fit: cover;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 239px;
+  left: 28px;
+}
+
+.view-ticket1 {
+  font-size: var(--font-size-5xl);
+  width: 219px;
+  display: inline-block;
+  position: absolute;
+  top: 91px;
+  left: 117px;
+}
+
+.scan-this-qr, .the-development-of {
+  width: 202px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 47px;
+}
+
+.the-development-of {
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray);
+  text-align: center;
+  width: 297px;
+  line-height: 28px;
+  top: 37px;
+  left: 0;
+}
+
+.scan-this-qr-code-parent {
+  width: 297px;
+  height: 65px;
+  position: absolute;
+  top: 157px;
+  left: 33px;
+}
+
+.adrien-seppanen {
+  text-transform: capitalize;
+  width: 171px;
+  position: absolute;
+  top: 36px;
+  left: 20px;
+}
+
+.adrien-seppanen, .name, .pm {
+  display: inline-block;
+}
+
+.pm {
+  font-size: var(--font-size-2xl);
+  width: 100px;
+  position: absolute;
+  top: 33px;
+  left: 213px;
+}
+
+.name {
+  width: 89px;
+  line-height: 28px;
+  left: 0;
+}
+
+.hours, .name, .name-parent {
+  position: absolute;
+  top: 0;
+}
+
+.hours {
+  width: 89px;
+  line-height: 28px;
+  display: inline-block;
+  left: 229px;
+}
+
+.name-parent {
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray);
+  width: 318px;
+  height: 28px;
+  left: 0;
+}
+
+.adrien-seppanen-parent {
+  font-size: var(--font-size-lg);
+  width: 318px;
+  height: 55px;
+  position: absolute;
+  top: 561px;
+  left: 15px;
+}
+
+.dec-2023 {
+  width: 129px;
+  display: inline-block;
+  position: absolute;
+  top: 659px;
+  left: 35px;
+}
+
+.date-wrapper {
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray);
+  width: 89px;
+  height: 28px;
+  position: absolute;
+  top: 631px;
+  left: 8px;
+}
+
+.back-button-icon {
+  width: 6.11%;
+  max-width: 100%;
+  height: 2.75%;
+  max-height: 100%;
+  position: absolute;
+  inset: 12.25% 86.39% 85% 7.5%;
+  overflow: hidden;
+}
+
+.back-button-link {
+  text-decoration: none;
+  display: inline-block;
+}
+
+.view-ticket {
+  background-color: var(--white-500);
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--dark-500);
+  font-family: var(--font-questrial);
+  width: 100%;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=view-ticket.767efe71.css.map */

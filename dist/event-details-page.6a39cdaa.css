@@ -1,0 +1,260 @@
+.tempimagecbcdbg-1-icon {
+  border-radius: var(--br-sm);
+  object-fit: cover;
+  width: 360px;
+  height: 242px;
+  position: absolute;
+  top: 44px;
+  left: 0;
+}
+
+.fav-icon-child {
+  border-radius: var(--br-3xs);
+  -webkit-backdrop-filter: blur(16.31px);
+  backdrop-filter: blur(16.31px);
+  background-color: #ffffff4d;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.fav-icon-item {
+  width: 41.71%;
+  max-width: 100%;
+  height: 41.52%;
+  max-height: 100%;
+  position: absolute;
+  inset: 29.39% 28.86% 29.09% 29.43%;
+  overflow: hidden;
+}
+
+.fav-icon {
+  width: 9.72%;
+  height: 2.71%;
+  position: absolute;
+  inset: 6.82% 5.28% 90.47% 85%;
+}
+
+.back-button-icon2 {
+  cursor: pointer;
+  width: 6.11%;
+  max-width: 100%;
+  height: 2.75%;
+  max-height: 100%;
+  position: absolute;
+  inset: 7.12% 89.44% 90.12% 4.44%;
+  overflow: hidden;
+}
+
+.day {
+  font-size: var(--font-size-xs);
+  color: var(--color-typography-sub-color);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 75.51%;
+  left: 0;
+}
+
+.date-icon, .date-parent {
+  width: 46.83%;
+  height: 92.45%;
+  position: absolute;
+  inset: 0 22.93% 7.55% 30.24%;
+}
+
+.date-icon {
+  width: 23.41%;
+  max-width: 100%;
+  height: 90.57%;
+  max-height: 100%;
+  inset: 9.43% 76.59% 0 0;
+  overflow: hidden;
+}
+
+.group-parent {
+  font-size: var(--font-size-base);
+  width: 205px;
+  height: 53px;
+  position: absolute;
+  top: 409px;
+  left: 20px;
+}
+
+.rooftop {
+  opacity: .84;
+  mix-blend-mode: normal;
+  line-height: 34px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.rooftop-parent {
+  width: 80%;
+  height: 92.45%;
+  position: absolute;
+  inset: 0 -10.24% 7.55% 30.24%;
+}
+
+.group-container {
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  width: 205px;
+  height: 53px;
+  position: absolute;
+  top: 487px;
+  left: 20px;
+}
+
+.buy-ticket-price-button-child {
+  width: 0%;
+  max-width: 100%;
+  height: 0%;
+  max-height: 100%;
+  position: absolute;
+  inset: -55.56% -14.23% -100%;
+  overflow: hidden;
+}
+
+.buy-ticket-150 {
+  width: 152px;
+  display: inline-block;
+  position: absolute;
+  top: 28.89%;
+  left: calc(50% - 76px);
+}
+
+.buy-ticket-price-button-item {
+  width: 12.2%;
+  max-width: 100%;
+  height: 66.67%;
+  max-height: 100%;
+  position: absolute;
+  inset: 17.78% 6.5% 15.56% 81.3%;
+  overflow: hidden;
+}
+
+.buy-ticket-price-button, .buy-ticket-price-button-wrapper {
+  background-color: #888;
+  width: 246px;
+  height: 45px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.buy-ticket-price-button-wrapper {
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-whitesmoke-100);
+  top: 1123px;
+  left: 57px;
+}
+
+.paris-new-year1 {
+  width: 352px;
+  height: 89px;
+  font-size: 32px;
+  display: inline-block;
+  position: absolute;
+  top: 303px;
+  left: 12px;
+}
+
+.popular {
+  opacity: .84;
+  mix-blend-mode: normal;
+  line-height: 34px;
+  position: absolute;
+  top: calc(50% - 17px);
+  left: 0;
+}
+
+.popular-wrapper, .popular1 {
+  color: var(--color-typography-sub-color);
+  position: absolute;
+  left: 5%;
+}
+
+.popular-wrapper {
+  width: 27.22%;
+  height: 34px;
+  top: calc(50% - 45.5px);
+  right: 67.78%;
+}
+
+.popular1 {
+  opacity: .84;
+  mix-blend-mode: normal;
+  line-height: 34px;
+  top: calc(50% + 237.5px);
+}
+
+.image-24, .tempimageetgf1w-1-icon {
+  height: 216px;
+  position: absolute;
+  top: 887px;
+}
+
+.image-24 {
+  opacity: .6;
+  border-radius: 54px;
+  width: 340px;
+  left: 12px;
+}
+
+.tempimageetgf1w-1-icon {
+  border-radius: var(--br-sm);
+  object-fit: cover;
+  width: 319px;
+  left: 17px;
+}
+
+.amazing-rooftop-new {
+  margin: 0;
+}
+
+.amazing-rooftop-new-container, .by-pimlico-solutions {
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  text-align: center;
+  line-height: 28px;
+  position: absolute;
+}
+
+.amazing-rooftop-new-container {
+  width: 280px;
+  height: 130px;
+  display: inline-block;
+  top: 609px;
+  left: 23px;
+}
+
+.by-pimlico-solutions {
+  top: 725px;
+  left: 104px;
+}
+
+.oe-project-letters-101 {
+  object-fit: cover;
+  width: 40px;
+  height: 31px;
+  position: absolute;
+  top: 9px;
+  left: 150px;
+}
+
+.event-details-page {
+  background-color: var(--white-500);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-typography-title);
+  font-family: var(--font-questrial);
+  width: 100%;
+  height: 1217px;
+  position: relative;
+  overflow-y: auto;
+}
+
+/*# sourceMappingURL=event-details-page.6a39cdaa.css.map */
